@@ -1,0 +1,1 @@
+A counter that add, separate, multiply a number
